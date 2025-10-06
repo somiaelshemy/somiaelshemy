@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Somia</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-- 🔭 I’m currently working on a small nodeJs script for personal use: [Spotube](https://github.com/somiaelshemy/Spotube.git)
+- 🔭 I’m currently working on: [QueryLens](https://github.com/somiaelshemy/QueryLens.git)
 
 - 🌱 I’m currently learning **Redux, Tailwind & ML**
 
